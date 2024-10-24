@@ -1,1 +1,1 @@
-# soft-skil
+# soft
